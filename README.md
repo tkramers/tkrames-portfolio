@@ -1,3 +1,3 @@
 # tkramesportfolio
 
-https://tkrames.github.io
+https://tkramers.github.io/tkrames-portfolio/
